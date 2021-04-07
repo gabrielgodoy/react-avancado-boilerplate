@@ -1,4 +1,5 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
+# --no-install porque o projeto já tem lint-staged instalado
 npx --no-install lint-staged
