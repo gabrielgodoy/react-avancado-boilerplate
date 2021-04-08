@@ -18,6 +18,11 @@ This project uses lot of stuff as:
 
 ## Getting Started
 
+To create a project based on this boilerplate:
+```bash
+yarn create next-app -e https://github.com/gabrielgodoy/react-avancado-boilerplate
+```
+
 First, run the development server:
 
 ```bash
